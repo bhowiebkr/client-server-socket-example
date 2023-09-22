@@ -1,4 +1,4 @@
-# Client, Server socket example in python
+# Client, Server socket example in python using a PySide GUI to interface with
 
 A client and server python example using QtNetwork
 
